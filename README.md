@@ -1,10 +1,10 @@
 <div align="center">
 
-# Whisper Chat
+# Python Chat
 
-![Banner](https://raw.githubusercontent.com/ThatSINEWAVE/Whisper-Chat/refs/heads/main/.github/SCREENSHOTS/Whisper-Chat.png)
 
-Whisper Chat is a lightweight chat server with a web-based monitoring dashboard. This project is in **very early development** and is not yet ready for production use.
+
+
 
 </div>
 
@@ -19,7 +19,7 @@ Whisper Chat is a lightweight chat server with a web-based monitoring dashboard.
 
 <div align="center">
 
-## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 
 </div>
 
@@ -148,7 +148,7 @@ The client and server communicate using a simple JSON-based protocol:
 
 <div align="center">
 
-## [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
 
 </div>
 
@@ -163,13 +163,7 @@ Future development plans include:
 - Mobile client applications
 - GUI client application
 
-## Contributing
 
-As this project is in early development, please reach out before submitting pull requests. All contributions are welcome!
-
-## License
-
-This project is open-source and available under the [GPL-3.0 License](LICENSE)
 
 ## Disclaimer
 
